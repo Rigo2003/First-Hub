@@ -1,6 +1,5 @@
 body{
     font-size: 16px;
-    text-align: center;
 }
 
 .container{
@@ -8,6 +7,14 @@ body{
     margin: 2em auto;
     border: 1px solid black;
     border-radius: 10%;
+}
+
+#cabecera{
+    width: 30%;
+    margin: 5px auto;
+    border: 2px solid black;
+    border-radius: 30px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
 
 h1{
